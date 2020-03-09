@@ -1,0 +1,131 @@
+{
+    "idol": [
+        {
+            "name": "文字消息",
+            "type": "TEXT",
+            "value": 82
+        },
+        {
+            "name": "直播/电台",
+            "type": "LIVEPUSH",
+            "value": 4
+        },
+        {
+            "name": "图片消息",
+            "type": "IMAGE",
+            "value": 18
+        },
+        {
+            "name": "语音/视频",
+            "type": "AUDIO",
+            "value": 2
+        },
+        {
+            "name": "翻牌消息",
+            "type": "REPLY",
+            "value": 40
+        },
+        {
+            "name": "营业天数",
+            "type": "DAY",
+            "value": 7
+        }
+    ],
+    "fans": [
+        {
+            "name": "粉丝留言",
+            "type": "FANSSAY",
+            "value": 319
+        },
+        {
+            "name": "粉丝数",
+            "type": "FANSNUM",
+            "value": 74
+        }
+    ],
+    "imgs": [
+        {
+            "url": "https://nim.nosdn.127.net/NDA5MzEwOA==/bmltYV83MjUxOTk0NTI1XzE1ODI5MTc4NzU4OTdfZWRjYTkxNzMtMTBkZi00ZWZjLWFmYjAtYWQxMmY3MjFmYzA5"
+        },
+        {
+            "url": "https://nim.nosdn.127.net/NDA5MzEwOA==/bmltYV83MjUxOTk0NTI1XzE1ODI5MTc4NzU4OThfMzNlZmYwMmMtNzg4NC00ZWEzLWIzNDAtZGEzYTVkMDViMzEw"
+        },
+        {
+            "url": "https://nim.nosdn.127.net/NDA5MzEwOA==/bmltYV83MjUxOTk0NTI1XzE1ODI5MTc4NzU4OThfMDJjMzBmYjktMDZiNi00Y2FmLWJkMzItNzYwYjkxYjMzMjgz"
+        },
+        {
+            "url": "https://nim.nosdn.127.net/NDA5MzEwOA==/bmltYV83MjUxOTk0NTI1XzE1ODI5MTc4NzU4OThfYTIyNjBhYzQtYTU4Zi00MTJjLTllMjItMDcxYTFjYTJkYmFm"
+        },
+        {
+            "url": "https://nim.nosdn.127.net/NDA5MzEwOA==/bmltYV83MjUxOTk0NTI1XzE1ODI5MTc4NzU4OThfYTMyODI1M2YtOWFlZC00NmFmLWI1ZDgtMjNjNTMxOWI5N2U4"
+        },
+        {
+            "url": "https://nim.nosdn.127.net/NDA5MzEwOA==/bmltYV83MjUxOTk0NTI1XzE1ODI5MTc4NzU4OThfZGFhZWE3ZTctZDAwOS00ODg3LTg0NDktM2Y0NzA4Y2FjMzJi"
+        }
+    ],
+    "reply": {
+        "max": [
+            "DragonWalker",
+            5
+        ],
+        "value": 40,
+        "user": 21
+    },
+    "day": {
+        "day": "2020/03/06",
+        "num": 52
+    },
+    "MAN": [
+        {
+            "time": 1583479771.0,
+            "dataTime": [
+                "2020/03/06",
+                "15:29:31"
+            ]
+        },
+        {
+            "time": 1583426530.0,
+            "dataTime": [
+                "2020/03/06",
+                "00:42:10"
+            ]
+        }
+    ],
+    "NEEDDATA": [
+        "2020/03/02",
+        "2020/03/08"
+    ],
+    "liveSumTime": "7小时7分32秒",
+    "previous": [
+        {
+            "name": "文字消息",
+            "type": "TEXT",
+            "value": 92
+        },
+        {
+            "name": "直播/电台",
+            "type": "LIVEPUSH",
+            "value": 5
+        },
+        {
+            "name": "图片消息",
+            "type": "IMAGE",
+            "value": 19
+        },
+        {
+            "name": "语音/视频",
+            "type": "AUDIO",
+            "value": 15
+        },
+        {
+            "name": "翻牌消息",
+            "type": "REPLY",
+            "value": 68
+        },
+        {
+            "name": "营业天数",
+            "type": "DAY",
+            "value": 7
+        }
+    ]
+}
