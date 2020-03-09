@@ -117,7 +117,8 @@ def monAndNin(times):
     }]
 
 def week(needData=["2019-08-01", "2019-08-31"], idol="唐霖"):
-    rooms = list(filter(lambda item: item['name'] == idol, openJson('rooms')))
+    roomData = requests.get('https://raw.githubusercontent.com/appletails/otherTool/4bf9a7a09ed1d146d6f60d36647acdbcbd520f17/data/rooms.json').json()
+    rooms = list(filter(lambda item: item['name'] == idol, roomData))
     roomId = rooms[0]['roomId']
     idolId = rooms[0]['id']
     start = int(timeStamp("%s 23:59:59" % needData[1])*1000)

@@ -1,0 +1,84 @@
+{
+    "idol": [
+        {
+            "name": "文字消息",
+            "type": "TEXT",
+            "value": 0
+        },
+        {
+            "name": "直播/电台",
+            "type": "LIVEPUSH",
+            "value": 0
+        },
+        {
+            "name": "图片消息",
+            "type": "IMAGE",
+            "value": 0
+        },
+        {
+            "name": "语音/视频",
+            "type": "AUDIO",
+            "value": 0
+        },
+        {
+            "name": "翻牌消息",
+            "type": "REPLY",
+            "value": 0
+        },
+        {
+            "name": "营业天数",
+            "type": "DAY",
+            "value": 7
+        }
+    ],
+    "fans": [
+        {
+            "name": "粉丝留言",
+            "type": "FANSSAY",
+            "value": 0
+        },
+        {
+            "name": "粉丝数",
+            "type": "FANSNUM",
+            "value": 0
+        }
+    ],
+    "imgs": [],
+    "reply": {},
+    "day": {},
+    "MAN": [],
+    "NEEDDATA": [],
+    "liveSumTime": "",
+    "previous": [
+        {
+            "name": "文字消息",
+            "type": "TEXT",
+            "value": 0
+        },
+        {
+            "name": "直播/电台",
+            "type": "LIVEPUSH",
+            "value": 0
+        },
+        {
+            "name": "图片消息",
+            "type": "IMAGE",
+            "value": 0
+        },
+        {
+            "name": "语音/视频",
+            "type": "AUDIO",
+            "value": 0
+        },
+        {
+            "name": "翻牌消息",
+            "type": "REPLY",
+            "value": 0
+        },
+        {
+            "name": "营业天数",
+            "type": "DAY",
+            "value": 7
+        }
+    ]
+}
