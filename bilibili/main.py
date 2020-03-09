@@ -13,7 +13,7 @@ def getIni():  # 获取配置文件
     fb.close()
     return data
 
-bot = CQHttp(api_root='http://127.0.0.1:5757/')
+bot = CQHttp(api_root='http://127.0.0.1:5700/')
 interval_delay = getIni()['interval_delay']
 # 实例化 BlockingScheduler
 sched = BlockingScheduler()
